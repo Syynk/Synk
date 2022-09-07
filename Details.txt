@@ -1,0 +1,12 @@
+Repository: https://github.com/Syynk/Synk.git
+
+Token: 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
+
+git remote set-url origin https://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@github.com/syynk/synk.git
+
+
+
+Upload it to your repository by using this commands:
+git add . 
+git commit -m "first upload"
+git push
