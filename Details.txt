@@ -1,8 +1,8 @@
 Repository: https://github.com/Syynk/Synk.git
 
-Token: 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
+Token: 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
 
-git remote set-url origin https://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@github.com/syynk/synk.git
+git remote set-url origin https://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@github.com/syynk/synk.git
 
 
 
